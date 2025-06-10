@@ -53,20 +53,20 @@ Welcome to my GitHub! I'm passionate about pushing the boundaries of artificial 
 
 ## 🌟 Featured Projects
 
-### 🚀 [Comprehensive MLOps Pipeline for Large-Scale Text Modeling](https://github.com/phantom2810](https://github.com/phantom2810/movie-recommendation_system_MLOps)
+### 🚀 [Movie Recommendation System with MLOps](https://github.com/phantom2810/movie-recommendation_system_MLOps)
 - **Tech Stack**: PyTorch Lightning, Ray, MLflow, Docker, Terraform, Ansible
 - Provisioned GPU resources on Chameleon Cloud with infrastructure as code
 - Implemented multi-GPU distributed training with automated hyperparameter optimization
 - Built CI/CD pipeline with GitHub Actions and Argo Workflows for continuous delivery
 
-### 🏆 [Export Compliance & Incentive Aggregator](https://github.com/phantom2810](https://github.com/phantom2810/rag-powered-compliance-and-incentive-navigator) 
+### 🏆 [Export Compliance & Incentive Aggregator](https://github.com/phantom2810) 
 *Amazon Sambhav Hackathon Finalist*
 - **Tech Stack**: LangChain, FAISS, OpenAI API, BeautifulSoup, Flask
 - Developed RAG-powered application serving 5,000+ users
 - Automated export compliance checks using vector databases and semantic search
 - Deployed scalable API for natural language querying of regulatory data
 
-### 🔒 [LLM Jailbreak Detection Framework]([https://github.com/phantom2810](https://github.com/phantom2810/Jailbreak-Simulator-Adversarial-Testing-for-LLMs)
+### 🔒 [Jailbreak Simulator - Adversarial Testing for LLMs](https://github.com/phantom2810/Jailbreak-Simulator-Adversarial-Testing-for-LLMs)
 - **Tech Stack**: PyTorch, Hugging Face Transformers, MCTS, FastChat
 - Built modular framework for adversarial testing of GPT-based models
 - Implemented real-time vulnerability detection with automated pipelines
