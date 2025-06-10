@@ -275,7 +275,7 @@
 
 I'm always excited to collaborate on innovative AI projects, discuss research ideas, or explore new opportunities in machine learning and artificial intelligence.
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-agarwal)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-agarwal-279144a5)
 [![Email](https://img.shields.io/badge/-Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aa11057@stern.nyu.edu)
 [![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/phantom2810)
 
