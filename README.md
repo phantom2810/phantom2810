@@ -91,9 +91,9 @@ AI Researcher and Engineer specializing in **privacy-preserving machine learning
 
 ---
 
-### 🌐 Software Engineer (AI) @ Google
+### 🌐 Software Engineer (AI) @ Google Chronicle
 
-**📍 via Crest Data Systems**
+**📍 India**
 
 - 🛡️ Integrated **anomaly detection algorithms** into Google Chronicle SIEM serving 500K+ users
 - 📊 Deployed **10+ ML-enhanced log parsers**, boosting data usability by 30%
